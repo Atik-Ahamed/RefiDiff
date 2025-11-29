@@ -1,3 +1,4 @@
-# RefiDiff
+# RefiDiff (AAAI, 2026)
 RefiDiff: Progressive Refinement Diffusion for Efficient Missing Data Imputation
-Implementation will be available soon.
+
+<i>Implementation will be available soon.</i>
